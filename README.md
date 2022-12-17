@@ -5,6 +5,8 @@ The droid is remote controlled and sounds 4 different sounds in loop.
 
 Last update- 14/09/22.
 
+[Demonstration video](https://youtu.be/epnWr3ba0nw)
+
 ### Images of the project
 ![droid](droid1.jpg)
 
@@ -23,11 +25,9 @@ Last update- 14/09/22.
 ![Electrical Circuit](inside.jpg)
 
 ### Remote Control
-![Remote Control](remote control.jpg)
+![remote control](https://user-images.githubusercontent.com/120782729/208256842-fa4cb9a7-4161-4374-8ee9-8943d99ca717.jpg)
 
 ## Operating Principle
-[Demonstration video](https://youtu.be/epnWr3ba0nw)
-
 * Power-in order to give power to the droid you'll need two 9V batteries and 1 9V battery for the remote. Then Switch on the remote.
 
 * The remote has 2 joysticks. 
