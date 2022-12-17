@@ -13,6 +13,7 @@ Last update- 14/09/22.
 ![droid](droid2.jpg)
 
 ## Technical Description
+### Schematic of the project
 ![Schematic_MSE-6-series repair droid_2022-08-30](https://user-images.githubusercontent.com/120782729/208256744-59eb48ab-5658-4d3e-8075-b9e5d8c8fcd3.png)
 
 ### Main components:
@@ -32,16 +33,17 @@ Last update- 14/09/22.
 
 * The remote has 2 joysticks. 
   * The left joystick is for controlng the speed of the motors. 
-    * Down Position- highest speed. 
-    * Middle Position- no movement.
-    * Right Position- turn right.
-    * Left Position- turn left.
+    * Up Position- NULL
+    * Down Position- highest speed
+    * Middle Position- no movement
+    * Right Position- NULL
+    * Left Position- NULL
   * The right joystick is for controling the direction of the Droid.
-    * Up Position- forward.
-    * Down Position- highest speed. 
-    * Middle Position- no movement.
-    * Right Position- turn right.
-    * Left Position- turn left.
+    * Up Position- forward
+    * Down Position- highest speed
+    * Middle Position- no movement
+    * Right Position- turn right
+    * Left Position- turn left
     
 * While the Droid is powered the sound module will keep sounding 4 diffrent sounds in loop.
 
