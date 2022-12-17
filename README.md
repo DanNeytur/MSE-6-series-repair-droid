@@ -1,6 +1,8 @@
 # MSE-6-series repair droid
 Builiding replica of MSE-6 Mouse Droid from Star Wars for fun.
+
 The droid is remote controlled and sounds 4 different sounds in loop.
+
 Last update- 14/09/22.
 
 ### Images of the project
@@ -9,7 +11,7 @@ Last update- 14/09/22.
 ![droid](droid2.jpg)
 
 ## Technical Description
-![Schematic_MSE-6-series repair droid_2022-09-14](Schematic_MSE-6-series repair droid_2022-09-14.pdf)
+![Schematic_MSE-6-series repair droid_2022-08-30](https://user-images.githubusercontent.com/120782729/208256744-59eb48ab-5658-4d3e-8075-b9e5d8c8fcd3.png)
 
 ### Main components:
 * 2 Arduino Nano Microcontrollers 
