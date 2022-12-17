@@ -11,16 +11,16 @@ Last update- 14/09/22.
 ## Technical Description
 ![Schematic_MSE-6-series repair droid_2022-09-14](Schematic_MSE-6-series repair droid_2022-09-14.pdf)
 
-###Main components:
+### Main components:
 * 2 Arduino Nano Microcontrollers 
 * 4 hobbist DC motors 
 * Sound Module DY-SV8F loaded with 4 different sounds in loop
 * 2 RF module nrf24l01 
 
-###Electrical Circuit inside Droid
+### Electrical Circuit inside Droid
 ![Electrical Circuit](inside.jpg)
 
-###Remote Control
+### Remote Control
 ![Remote Control](remore control.jpg)
 
 ## Operating Principle
