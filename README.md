@@ -32,7 +32,7 @@ Last update- 14/09/22.
 * In order to power to the droid you'll need two 9V batteries and 1 9V battery for the remote. Then Switch on the remote control.
 
 * The remote has 2 joysticks. 
-  * The left joystick is for controlng the speed of the motors. 
+  * The left joystick is for controlling the speed of the motors. 
     * Up Position- NULL
     * Down Position- highest speed
     * Middle Position- no movement
@@ -45,7 +45,7 @@ Last update- 14/09/22.
     * Right Position- turn right
     * Left Position- turn left
     
-* While the Droid is powered the sound module will keep sounding 4 diffrent sounds in loop.
+* While the Droid is powered the sound module will keep sounding 4 different sounds in loop.
 
 
 ## Authors
