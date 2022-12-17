@@ -21,7 +21,7 @@ Last update- 14/09/22.
 ![Electrical Circuit](inside.jpg)
 
 ### Remote Control
-![Remote Control](remore control.jpg)
+![Remote Control](remote control.jpg)
 
 ## Operating Principle
 [Demonstration video](https://youtu.be/epnWr3ba0nw)
