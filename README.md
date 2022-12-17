@@ -9,7 +9,7 @@ Last update- 14/09/22.
 ![droid](droid2.jpg)
 
 ## Technical Description
-![Schematic_MSE-6-series repair droid_2022-09-14](Schematic_MSE-6-series repair droid_2022-09-14)
+![Schematic_MSE-6-series repair droid_2022-09-14](Schematic_MSE-6-series repair droid_2022-09-14.pdf)
 
 ###Main components:
 * 2 Arduino Nano Microcontrollers 
