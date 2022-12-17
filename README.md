@@ -1,18 +1,48 @@
 # MSE-6-series repair droid
 Builiding replica of MSE-6 Mouse Droid from Star Wars for fun.
+The droid is remote controlled and sounds 4 different sounds in loop.
+Last update- 14/09/22.
 
-## Description
-Made with Arduino Nano.
-The droid has 4 motors, sound card with 4 different sounds in loop, RF controlled with nrf24l01 module.
+### Images of the project
+![droid](droid1.jpg)
 
-### operating principle
+![droid](droid2.jpg)
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+## Technical Description
+![Schematic_MSE-6-series repair droid_2022-09-14](Schematic_MSE-6-series repair droid_2022-09-14)
+
+###Main components:
+* 2 Arduino Nano Microcontrollers 
+* 4 hobbist DC motors 
+* Sound Module DY-SV8F loaded with 4 different sounds in loop
+* 2 RF module nrf24l01 
+
+###Electrical Circuit inside Droid
+![Electrical Circuit](inside.jpg)
+
+###Remote Control
+![Remote Control](remore control.jpg)
+
+## Operating Principle
 [Demonstration video](https://youtu.be/epnWr3ba0nw)
+
+* Power-in order to give power to the droid you'll need two 9V batteries and 1 9V battery for the remote. Then Switch on the remote.
+
+* The remote has 2 joysticks. 
+  * The left joystick is for controlng the speed of the motors. 
+    * Down Position- highest speed. 
+    * Middle Position- no movement.
+    * Right Position- turn right.
+    * Left Position- turn left.
+  * The right joystick is for controling the direction of the Droid.
+    * Up Position- forward.
+    * Down Position- highest speed. 
+    * Middle Position- no movement.
+    * Right Position- turn right.
+    * Left Position- turn left.
+    
+* While the Droid is powered the sound module will keep sounding 4 diffrent sounds in loop.
+
 
 ## Authors
 
