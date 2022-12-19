@@ -29,7 +29,7 @@ Last update- 14/09/22.
 ![remote control](https://user-images.githubusercontent.com/120782729/208256842-fa4cb9a7-4161-4374-8ee9-8943d99ca717.jpg)
 
 ## Operating Principle
-* In order to power to the droid you'll need two 9V batteries and 1 9V battery for the remote. Then Switch on the remote control.
+* In order to power to the droid you'll need two 9V batteries and one 9V battery for the remote. Then Switch on the remote control.
 
 * The remote has 2 joysticks. 
   * The left joystick is for controlling the speed of the motors. 
