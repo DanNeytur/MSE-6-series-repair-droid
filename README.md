@@ -19,7 +19,7 @@ Last update- 14/09/22.
 ### Main components:
 * 2 Arduino Nano Microcontrollers 
 * 4 hobbist DC motors 
-* Sound Module DY-SV8F loaded with 4 different sounds in loop
+* Sound Module DY-SV8F loaded with 4 different sounds 
 * 2 RF module nrf24l01 
 
 ### Electrical Circuit inside Droid
